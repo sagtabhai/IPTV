@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://tsepg.cf/jio.xml.gz, https://tsepg.cf/epg.xml.gz, https://epghub.xyz/epg/EPG-IN.xml.gz, https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz, https://short.gy/zdk6lx, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+
+#EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XiUfLI2p.png" group-title="Entertainment",And TV HD
+#http://87.255.35.150:18221/
+#http://87.255.35.150:18843/
+#EXTVLCOPT:http-referrer=https://playyonogames.in/
+#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+#https://playyonogames.in/live.php?extension=.m3u8&id=472
+#http://a9.lion.wine/live/hEBR6375/NxMp4460/281313.m3u8
+http://103.175.73.12:8080/live/252/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+#EXTINF:-1 tvg-id="204" tvg-name="And TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/2560px-%26TV_2025.svg.png" group-title="Entertainment",And TV
+#http://103.175.73.12:8080/live/253/master.m3u8
+#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+#https://playyonogames.in/live.php?extension=.m3u8&id=2024
+#http://103.182.170.32:8888/play/a03v
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="and.TV.us2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XiUfLI2p.png" group-title="Entertainment",And TV HD VIP
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
