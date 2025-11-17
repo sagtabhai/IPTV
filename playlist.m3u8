@@ -22,6 +22,116 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Abzy.Dhakad.in" tvg-name="Abzy Dhakad" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="Entertainment",ABZY DHAKAD
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index_3.m3u8
+
+#EXTINF:-1 tvg-id="Abzy.Movies.in" tvg-name="Abzy Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABZY_Movies.png" group-title="Entertainment",ABZY MOVIES
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index_3.m3u8
+
+#EXTINF:-1 tvg-id="919" tvg-name="Anjan TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Anjan_TV.png" group-title="Entertainment",Anjan TV
+#http://103.175.73.12:8080/live/20/20_0.m3u8
+https://cdn-1.pishow.tv/live/993/master.m3u8
+
+#EXTINF:-1 tvg-id="Arre.HD.in" tvg-name="Arre HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arre.png" group-title="Entertainment",Arre
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/arre/master.m3u8
+
+#EXTINF:-1 tvg-id="1359" tvg-name="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment",Big Magic
+http://103.175.73.12:8080/live/13/13_0.m3u8
+
+#EXTINF:-1 tvg-id="Bollywood.Masala.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png" group-title="Entertainment",Bollywood Masala
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/master.m3u8
+https://dlatw29zyg5gl.cloudfront.net/bollywoodmasala/HD1080/HD1080.m3u8
+
+#EXTINF:-1 tvg-id="Colors.HD.in" tvg-name="Colors" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
+#http://217.20.112.199:8080/ColorsHD/index.m3u8
+#http://87.255.35.150:18890/
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_144.m3u8
+http://103.175.73.12:8080/live/7/master.m3u8
+
+#EXTINF:-1 tvg-id="Colors.SD.in" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment",Colors SD
+#http://87.255.35.150:18803/
+http://103.175.73.12:8080/live/8/master.m3u8
+
+#EXTINF:-1 tvg-id="532" tvg-name="Dabangg" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Entertainment",Dabangg
+#http://103.175.73.12:8080/live/171/master.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/c732d96c-004c-4d77-944e-ef2a6e823feb/3.m3u8
+https://d14c63magvk61v.cloudfront.net/strm/channels/dabangg/m4.m3u8
+
+#EXTINF:-1 tvg-id="701" tvg-name="Dangal" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/neiqmb6i.png" group-title="Entertainment",DANGAL TV
+#http://103.175.73.12:8080/live/17/master.m3u8
+#http://202.164.50.194:8000/play/a00q/index.m3u8
+https://live-dangal.akamaized.net/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dangal.2.in" tvg-name="Dangal 2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HlSQHL1f.png" group-title="Entertainment",DANGAL 2
+#http://103.175.73.12:8080/live/18/master.m3u8
+#http://202.164.50.194:8000/play/a00p/index.m3u8
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DD.Arunprabha.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Arunprabha.png" group-title="Entertainment",DD Arunprabha
+#http://103.175.73.12:8080/live/203/master.m3u8
+#https://cdn-4.pishow.tv/live/32/master.m3u8
+#https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index_3.m3u8
+
+#EXTINF:-1 tvg-id="580" tvg-name="DD bharati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Entertainment",DD Bharati
+#http://103.175.73.12:8080/live/335/master.m3u8
+#http://202.164.50.194:8000/play/a057/index.m3u8
+https://cdn-1.pishow.tv/live/10/master.m3u8
+
+#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
+http://217.20.112.199/sethd/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
+#EXTINF:-1 tvg-id="473" tvg-name="Zee Anmol" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1XlIJkmd.png" group-title="Entertainment",Zee Anmol
+#http://103.175.73.12:8080/live/256/master.m3u8
+#http://87.255.35.150:18467/
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+#EXTINF:-1 tvg-id="426" tvg-name="Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/1280px-Zee_TV_2025.svg.png" group-title="Entertainment",ZEE TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6feqkRuy.png" group-title="Movies",& Pictures HD
+http://a9.lion.wine/live/hEBR6375/NxMp4460/281312.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gWbWHfFZ.png" group-title="Movies",& Pictures
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies",B4U Movies
+https://mini.allinonereborn.fun/jiotv-in/app/ts_live_182.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
+#EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cfuJK1P6.png" group-title="Movies",Zee Anmol Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+#EXTINF:-1 tvg-id="Zee.Bollywood.Tv.Channel.Today.in2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iy9FQKIX.png" group-title="Movies",ZEE BOLLYWOO
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/3My3DSNO.png" group-title="Movies",ZEE CINEMA HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Oftxxc6j.png" group-title="Movies",ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+
+
 
 
 
