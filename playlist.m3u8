@@ -99,7 +99,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6feqkRuy.png" group-title="Movies",& Pictures HD
+#EXTINF:-1 tvg-id="And.Pictures.HD.in" 185 tvg-name="And Pictures HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6feqkRuy.png" group-title="Movies",& Pictures HD
 http://a9.lion.wine/live/hEBR6375/NxMp4460/281312.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -107,7 +107,7 @@ http://a9.lion.wine/live/hEBR6375/NxMp4460/281312.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gWbWHfFZ.png" group-title="Movies",& Pictures
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies",B4U Movies
+#EXTINF:-1 tvg-id="And.Pictures.in" 182 tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies",B4U Movies
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_182.m3u8
 
 
