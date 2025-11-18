@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
 
 #EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XiUfLI2p.png" group-title="Entertainment",&TV HD
 #http://87.255.35.150:18221/
@@ -131,6 +131,112 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Oftxxc6j.png" group-title="Movies",ZEE CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="DD Sports" tvg-logo="https://i.ibb.co/YBYcN1dq/IMG-20251102-222052.png" group-title="Sports",DD Sports HD
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
+#https://cdn-7.pishow.tv/live/1161/master.m3u8
+#http://103.175.73.12:8080/live/280/master.m3u8
+#http://a9.lion.wine/live/hEBR6375/NxMp4460/281626.m3u8
+
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="DD Sports" tvg-logo="https://i.ibb.co/YBYcN1dq/IMG-20251102-222052.png" group-title="Sports",DD Sports
+#http://87.255.35.150:18922/
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#http://103.175.73.12:8080/live/64/master.m3u8
+#https://servertvhub.site/jio/app/ts_live_204.m3u8
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 1 HD.in" tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ryix5hzL.png" group-title="Sports",SONY SPORTS TEN 1 HD
+http://103.175.73.12:8080/live/74/master.m3u8
+#http://163.61.227.29:8000/play/a060/index.m3u8
+#http://87.255.35.150:18926/
+#http://87.255.35.150:18544/
+#http://87.255.35.150:18891/
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 1.in" tvg-name="Sony Sports Ten 1" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HYG1Jq7V.png" group-title="Sports",SONY SPORTS TEN 1
+http://103.175.73.12:8080/live/75/master.m3u8
+#http://103.182.170.32:8888/play/a04j
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 2 HD.in" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FSG6zC9Q.png" group-title="Sports",SONY SPORTS TEN 2 HD
+http://103.175.73.12:8080/live/76/master.m3u8
+#http://87.255.35.150:18927/
+#http://87.255.35.150:18928/
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 2.in" tvg-name="Sony Sports Ten 2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Ybkb746Y.png" group-title="Sports",SONY SPORTS TEN 2
+http://103.175.73.12:8080/live/77/master.m3u8
+
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-name="SONY SPORTS TEN 3 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uygahAYJ.png" group-title="Sports",SONY SPORTS TEN 3 HINDI HD
+http://103.175.73.12:8080/live/78/master.m3u8
+#http://87.255.35.150:18848/
+#http://163.61.227.29:8000/play/a068/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.in" tvg-name="SONY SPORTS TEN 3" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/t614m8Gs.png" group-title="Sports",SONY SPORTS TEN 3 HINDI
+http://103.175.73.12:8080/live/79/master.m3u8
+#http://103.182.170.32:8888/play/a03p
+
+#EXTINF:-1 tvg-id="Sony Ten 5 HD.in" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uYDqxdc4.png" group-title="Sports",SONY SPORTS TEN 5 HD
+http://103.175.73.12:8080/live/80/master.m3u8
+#http://87.255.35.150:18818/
+#http://87.255.35.150:18879/
+#http://a9.lion.wine/live/hEBR6375/NxMp4460/281629.m3u8
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 5.in" tvg-name="Sony Sports Ten 5" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xngy65EJ.png" group-title="Sports",SONY SPORTS TEN 5
+http://103.175.73.12:8080/live/81/master.m3u8
+
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HD.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5KSkBXcJ.png" group-title="Sports",STAR SPORTS 1 HD
+http://87.255.35.150:18863/
+
+#EXTINF:-1 tvg-id="STAR SPORTS 1 HD HINDI.in" tvg-name="STAR SPORTS 1 HD HINDI" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EU2zjOeN.png" group-title="Sports",STAR SPORTS 1 HD HINDI
+http://87.255.35.150:18302/
+#http://87.255.35.150:18923/
+#http://103.182.170.32:8888/play/a04e
+#http://163.61.227.29:8000/play/a062/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR SPORTS 1.in" tvg-name="STAR SPORTS 1 HINDI" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ghnwMD3M.png" group-title="Sports",STAR SPORTS 1 HINDI
+http://103.182.170.32:8888/play/a02m
+
+#EXTINF:-1 tvg-id="STAR.SPORTS.2.HD.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pwp8J23o.png" group-title="Sports",STAR SPORTS 2 HD
+http://87.255.35.150:18828/
+#http://87.255.35.150:18892/
+#http://163.61.227.29:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-id="Star Sports 2 Hindi HD.in" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png" group-title="Sports",STAR SPORTS 2 HD HINDI
+#http://103.182.170.32:8888/play/a04p
+http://87.255.35.150:18882/
+
+#EXTINF:-1 tvg-id="Star Sports 3.in" tvg-name="Star Sports 3" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ArxHAGxh.png" group-title="Sports",STAR SPORTS 3 HINDI
+http://87.255.35.150:18804
+
+#EXTINF:-1 tvg-id="Star.Sports.Khel.in" tvg-name="Star Sports Khel" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r1W3wpgX.png" group-title="Sports",STAR SPORTS KHEL HINDI
+#https://servertvhub.site/jio/app/ts_live_1998.m3u8
+#EXTVLCOPT:http-referrer=https://playyonogames.in/
+#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+https://playyonogames.in/live.php?extension=.m3u8&id=1998
+
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/77F6TJgZ.png" group-title="Sports",STAR SPORTS SELECT 1 HD 
+http://87.255.35.150:18893/
+
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ge6P8Fyy.png" group-title="Sports",STAR SPORTS SELECT 2 HD
+http://87.255.35.150:18952/
 
 
 
