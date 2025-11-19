@@ -338,16 +338,16 @@ http://103.175.73.12:8080/live/2/master.m3u8
 #EXTINF:-1 tvg-id="STAR UTSAV.in" tvg-name="STAR UTSAV" group-title="Entertainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/SMnGVij5.png",STAR UTSAV
 http://103.175.73.12:8080/live/9/master.m3u8
 
-#EXTINF:-1 tvg-id="Sun.Neo.HD.in" tvg-name="Sun Neo HD" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png",SUN NEO HD
+#EXTINF:-1 tvg-id="3088" tvg-name="Sun Neo HD" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png",SUN NEO HD
 #EXTVLCOPT:http-referrer=https://playyonogames.in/
 #KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
 #https://playyonogames.in/live.php?extension=.m3u8&id=3088
 https://mini.allinonereborn.fun/jiotv-in/app/ts_live_3088.m3u8
 
-#EXTINF:-1 tvg-id="The.Q.India.in" tvg-name="The Q India" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheQIndia.png",THE Q
+#EXTINF:-1 tvg-id="1066" tvg-name="The Q" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheQIndia.png",THE Q
 http://103.175.73.12:8080/live/25/master.m3u8
 
-#EXTINF:-1 tvg-id="Unique.Tv.in" tvg-name="Unique TV" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Unique_Tv.png",UNIQUE TV
+#EXTINF:-1 tvg-id="3022" tvg-name="Unique Tv" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Unique_Tv.png",UNIQUE TV
 http://103.175.73.12:8080/live/688/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -357,19 +357,19 @@ http://103.175.73.12:8080/live/688/master.m3u8
 #http://87.255.35.150:18467/
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="ZEE.CAFE.HD.in" tvg-name="ZEE CAFE HD" group-title="Entertainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/24JwWZTu.png",ZEE CAFE HD
+#EXTINF:-1 tvg-id="1319" tvg-name="Zee Cafe HD" group-title="Entertainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/24JwWZTu.png",ZEE CAFE HD
 #http://103.175.73.12:8080/live/261/master.m3u8
 http://103.182.170.32:8888/play/a01w
 
-#EXTINF:-1 tvg-id="ZEE.CAFE.in" tvg-name="ZEE CAFE" group-title="Entertainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/13iMhHQe.png",ZEE CAFE
+#EXTINF:-1 tvg-id="1364" tvg-name="Zee Cafe SD" group-title="Entertainment" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/13iMhHQe.png",ZEE CAFE
 #http://103.175.73.12:8080/live/262/master.m3u8
 http://87.255.35.150:18547/
 
-#EXTINF:-1 tvg-id="Zee.Punjabi.in" tvg-name="Zee Punjabi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GKyBFlhT.png" group-title="Entertainment",ZEE PUNJABI
+#EXTINF:-1 tvg-id="1751" tvg-name="Zee Punjabi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GKyBFlhT.png" group-title="Entertainment",ZEE PUNJABI
 http://103.175.73.12:8080/live/350/master.m3u8
 #http://87.255.35.150:18931/
 
-#EXTINF:-1 tvg-id="Zee.TV.HD.in" tvg-name="Zee TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mhmx6AmO.png" group-title="Entertainment",ZEE TV HD
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mhmx6AmO.png" group-title="Entertainment",ZEE TV HD
 http://103.175.73.12:8080/live/254/master.m3u8
 #http://87.255.35.150:18849/
 #http://87.255.35.150:18951/
