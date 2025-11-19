@@ -852,8 +852,7 @@ https://cdn.ottlive.co.in/punjabihits/tracks-v1a1/mono.m3u8
 https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="Shemaroo.Filmy.Gaane.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/shemaroofilmigaane.png" group-title="Music",Shemaroo Filmigaane
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/1b9bd2e6-4399-40aa-a9b7-bafe23d4e8af/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Saga.Music.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" group-title="Music",SAGA MUSIC
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
