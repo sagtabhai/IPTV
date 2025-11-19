@@ -928,8 +928,7 @@ http://87.255.35.150:18251/
 http://87.255.35.150:18811/
 
 #EXTINF:-1 tvg-id="Kids.TV.India.-.Nursery.Rhymes.and.Baby.Songs.distro" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/logo_20231219_214815_66.png" group-title="Kids",Kids India TV
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/843731b3-a6b0-498f-ae4c-5cab2b828e16/2.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
 
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="Kids",Manoranjan Grand
 #http://202.164.50.194:8000/play/a00h/index.m3u8
