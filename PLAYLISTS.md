@@ -11,7 +11,7 @@ Playlists in which channels are grouped by category.
 <br>
 
 ```
-https://iptv-org.github.io/iptv/index.category.m3u
+https://raw.githubusercontent.com/sagtabhai/IPTV/master/in.m3u
 ```
 
 Same thing, but split up into separate files:
@@ -53,7 +53,7 @@ Playlists in which channels are grouped by the language in which they are broadc
 <br>
 
 ```
-https://iptv-org.github.io/iptv/index.language.m3u
+https://raw.githubusercontent.com/sagtabhai/IPTV/master/language.m3u
 ```
 
 Same thing, but split up into separate files:
@@ -64,7 +64,7 @@ Same thing, but split up into separate files:
     <tr><th align="left">Language</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td align="left">Assamese</td><td align="right">9</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/asm.m3u</code></td></tr>
+    <tr><td align="left">Assamese</td><td align="right">9</td><td align="left" nowrap><code>https://raw.githubusercontent.com/sagtabhai/IPTV/master/languages/asm.m3u</code></td></tr>
     <tr><td align="left">Bengali</td><td align="right">56</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ben.m3u</code></td></tr>
     <tr><td align="left">Bhojpuri</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bho.m3u</code></td></tr>
     <tr><td align="left">English</td><td align="right">2448</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eng.m3u</code></td></tr>
