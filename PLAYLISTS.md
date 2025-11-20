@@ -22,7 +22,7 @@ Same thing, but split up into separate files:
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td>Business</td><td align="right">67</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
+    <tr><td>Entertainment</td><td align="right">001</td><td nowrap><code>https://epiconvh.akamaized.net/live/showbox/mater_1080p.m3u8</code></td></tr>
     <tr><td>Cooking</td><td align="right">32</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/cooking.m3u</code></td></tr>
     <tr><td>Culture</td><td align="right">170</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/culture.m3u</code></td></tr>
     <tr><td>Documentary</td><td align="right">111</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>
