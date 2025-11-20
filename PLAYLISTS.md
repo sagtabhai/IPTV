@@ -1,1 +1,111 @@
-fill="currentColor"></path></svg></i></button></div></div></div></section></div><section class="j-panel__content j-container"><div><section class="j-container l-layout--full"><div class="item"><a class="j-link show-underline" aria-label="For You" tabindex="0" href="/"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">For You</h2></div></div></div></div></div></a></div><div class="item"><a class="j-link show-underline" aria-label="TV Guide" tabindex="0" href="/tv-guide"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">TV Guide</h2></div></div></div></div></div></a></div><div class="item"><a class="j-link show-underline" aria-label="Elections" tabindex="0" href="/election-2025/assembly"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">Elections</h2></div></div></div></div></div></a></div><div class="item"><a class="j-link show-underline" aria-label="Premium" tabindex="0" href="/premium"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">Premium</h2></div></div></div></div></div></a></div><div class="item"><a class="j-link show-underline" aria-label="Movies" tabindex="0" href="/movies"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">Movies</h2></div></div></div></div></div></a></div><div class="item"><a class="j-link show-underline" aria-label="Sports" tabindex="0" href="/sports"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">Sports</h2></div></div></div></div></div></a></div><div class="item"><a class="j-link show-underline" aria-label="Specials" tabindex="0" href="/specials"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">Specials</h2></div></div></div></div></div></a></div><div class="item"><a class="j-link show-underline" aria-label="Kids" tabindex="0" href="/kids"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">Kids</h2></div></div></div></div></div></a></div><div class="item"><a class="j-link show-underline" aria-label="News" tabindex="0" href="/news"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">News</h2></div></div></div></div></div></a></div><div class="item"><a class="j-link show-underline" aria-label="Shows" tabindex="0" href="/shows"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">Shows</h2></div></div></div></div></div></a></div></section></div></section></div></div></div></section></div></div><div class="j-panel-wrapper"><div class="j-panel-backdrop"></div><div class="j-panel j-panel--right max-width" aria-label="Guest User" role="dialog" aria-modal="true" aria-hidden="true"><div class="j-panel__header-wrapper"><section data-mode="bold" class="j-panel__header j-container"><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__prefix"><div class="j-avatar j-avatar-kind__default j-avatar-size__medium j-text-body-s"><span class="j-icon" style="--icon-size-svg:100%;--icon-size:2rem"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 6a4 4 0 11-8 0 4 4 0 018 0zm4 10.5c0 3.038-3.582 5.5-8 5.5s-8-2.462-8-5.5S7.582 11 12 11s8 2.462 8 5.5z" fill="currentColor"></path></svg></span></div></div><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><h2 class="j-text j-text-body-m">Guest User</h2></div></div><div class="j-listBlock__block j-listBlock__block-helperBlock"><div class="j-listBlock__block-text"></div></div></div><div class="j-listBlock__suffix"><button class="negative-margin-right suffix-button j-button j-text-button j-button-size__medium tertiary icon-primary icon-only" aria-label="Close"><span style="flex-basis:fit-content"></span><i class="j-button-icon"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13.41 12l6.3-6.29a1.004 1.004 0 00-1.42-1.42L12 10.59l-6.29-6.3a1.004 1.004 0 10-1.42 1.42l6.3 6.29-6.3 6.29a.999.999 0 000 1.42 1 1 0 001.42 0l6.29-6.3 6.29 6.3a1.001 1.001 0 001.639-.325 1 1 0 00-.22-1.095L13.41 12z" fill="currentColor"></path></svg></i></button></div></div></div></section></div><section class="j-panel__content j-container"><div><div class="j-text j-text-body-xs-bold">Account</div><div class="sp--xs"></div><div class="j-listBlock align-middle"><div class="j-listBlock__main"><div class="j-listBlock__prefix"><span class="j-icon j-icon__bg" style="--icon-size-svg:1.5rem;--icon-size:2rem;--icon-color:var(--color-primary-50);--icon-bg:var(--color-primary-20)"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M17 7h1v1a1 1 0 002 0V7h1a1 1 0 100-2h-1V4a1 1 0 00-2 0v1h-1a1 1 0 100 2zm-.24 3.47a4.89 4.89 0 01-2-1.84A5 5 0 0114 6c.003-.336.037-.67.1-1H5a3 3 0 00-3 3v8a3 3 0 003 3h14a3 3 0 003-3v-6a5 5 0 01-5.24.47zm-9.82-2a1.5 1.5 0 012.45.49c.111.272.139.572.08.86A1.49 1.49 0 018.29 11a1.49 1.49 0 01-.86-.08 1.5 1.5 0 01-.49-2.45zm3.77 7.27A1 1 0 0110 16H6a1 1 0 01-1-1 3 3 0 016 0 1 1 0 01-.29.71v.03z" fill="currentColor"></path></svg></span></div><div class="j-listBlock__block-root"><div class="j-listBlock__block j-listBlock__block-titleBlock"><div class="j-listBlock__block-text"><div class="j-text j-text-body-s" style="--color-text:var(--color-primary-grey-80)">Jio Recharge</div></div></div></div><div class="j-listBlock__suffix"><button class="j-button j-text-button j-button-size__medium tertiary icon-primary icon-only" aria-label="Jio Recharge opens in new window"><span style="flex-basis:fit-content"></span><i class="j-button-icon"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 20a1.002 1.002 0 01-1.006-1 1 1 0 01.296-.71l6.3-6.29-6.3-6.29a1.004 1.004 0 011.42-1.42l7 7a.997.997 0 01.219 1.095.999.999 0 01-.22.325l-7 7A1 1 0 019 20z" fill="currentColor"></path></svg></i></button></div></div></div></div></section></div></div></div><main id="main" class="main_container"><div><div class="pageContainer"><div class="ChannelsPage_mainDiv__CgWZw"><div class="ChannelsPage_channelImageLogo__NmcUK"><img src="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" alt="4 TV on JioTV"/></div><div class="ChannelsPage_channelDescription__Yc5UO"><h1 class="ChannelsPage_channelNameHeading__0Y0Zp j-text j-text-heading-l">4 TV</h1><div class="Channel
+<tv date="20251120">
+<channel id="123tv.de">
+<display-name>1-2-3.tv</display-name>
+</channel>
+<channel id="MotorvisionTV.de">
+<display-name>Motorvision TV</display-name>
+<display-name>Motor TV</display-name>
+<display-name>Motorvision</display-name>
+</channel>
+<channel id="QVCJapan">
+<display-name>QVC Japan</display-name>
+</channel>
+<channel id="RedBull">
+<display-name>Red Bull TV</display-name>
+<display-name>RedBull TV</display-name>
+<display-name>RedBull TV</display-name>
+</channel>
+<channel id="CosmosTv">
+<display-name>Cosmos Tv</display-name>
+</channel>
+<channel id="CACHI">
+<display-name>TV Cachí</display-name>
+</channel>
+<channel id="Demo">
+<display-name>M3U IPTV Demo</display-name>
+<icon src="https://m3u-ip.tv/images/m3u-iptv-white.png"/>
+</channel>
+<channel id="CCTV2">
+<display-name>CCTV2</display-name>
+</channel>
+
+<programme start="20251119180000 +0000" stop="20251119201500 +0000" channel="RedBull">
+	<title lang="de">RedBull TV - Demo program 0</title>
+	<sub-title>Demo channel</sub-title>
+	<desc lang="de">Nullam feugiat nunc ut augue finibus, et lacinia enim fringilla.&#x0A;Aenean condimentum ipsum in lectus accumsan, a malesuada metus consectetur.</desc>
+	<category lang="en">Demo</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Test</category>
+	<icon src="https://m3u-ip.com/demo/program.png" />
+	<country lang="de">DE</country>
+	<rating system="RU"><value>16+</value></rating>
+	<episode-num system="dd_progid">EP00003026.0665</episode-num>
+    <episode-num system="onscreen">2705</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20070701000000" />
+    <subtitles type="teletext" />
+	<date>20080715</date>
+</programme>
+<programme start="20251119201500 +0000" stop="20251119214500 +0000" channel="RedBull">
+	<title lang="de">RedBull TV - Demo program 1</title>
+	<sub-title>Demo channel</sub-title>
+	<desc lang="de">Lorem ipsum dolor sit amet, consectetur adipiscing elit.&#x0A;Sed dictum sem ut tortor fringilla, eget lobortis magna euismod.</desc>
+	<category lang="en">Demo</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Test</category>
+	<icon src="https://m3u-ip.com/demo/program.png" />
+	<country lang="de">DE</country>
+	<rating system="RU"><value>16+</value></rating>
+	<episode-num system="dd_progid">EP00003026.0665</episode-num>
+    <episode-num system="onscreen">2705</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20070701000000" />
+    <subtitles type="teletext" />
+	<date>20080715</date>
+</programme>
+<programme start="20251119214500 +0000" stop="20251119231000 +0000" channel="RedBull">
+	<title lang="de">RedBull TV - Demo program 2</title>
+	<sub-title>Demo channel</sub-title>
+	<desc lang="de">Fusce hendrerit mi nec enim interdum, eu euismod massa fringilla.&#x0A;Nunc hendrerit ex sed eros vehicula aliquet.</desc>
+	<category lang="en">Demo</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Test</category>
+	<icon src="https://m3u-ip.com/demo/program.png" />
+	<country lang="de">DE</country>
+	<rating system="RU"><value>16+</value></rating>
+	<episode-num system="dd_progid">EP00003026.0665</episode-num>
+    <episode-num system="onscreen">2705</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20070701000000" />
+    <subtitles type="teletext" />
+	<date>20080715</date>
+</programme>
+<programme start="20251119231000 +0000" stop="20251120002000 +0000" channel="RedBull">
+	<title lang="de">RedBull TV - Demo program 3</title>
+	<sub-title>Demo channel</sub-title>
+	<desc lang="de">Phasellus interdum massa id turpis malesuada fermentum. Nulla facilisi.&#x0A;Duis euismod nunc in ex viverra, id iaculis nunc porttitor.</desc>
+	<category lang="en">Demo</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Test</category>
+	<icon src="https://m3u-ip.com/demo/program.png" />
+	<country lang="de">DE</country>
+	<rating system="RU"><value>16+</value></rating>
+	<episode-num system="dd_progid">EP00003026.0665</episode-num>
+    <episode-num system="onscreen">2705</episode-num>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+    <previously-shown start="20070701000000" />
+    <subtitles type="teletext" />
+	<date>20080715</date>
+</programme>
+<programme start="20251120002000 +0000" stop="20251120011500 +0000" channel="RedBull">
+	<title lang="de">RedBull TV - Demo program 4</title>
+	<sub-title>Demo channel</sub-title>
+	<desc lang="de">Curabitur volutpat metus ut diam tempus scelerisque.&#x0A;Maecenas eget metus consequat, commodo risus ut, fringilla quam.</des
