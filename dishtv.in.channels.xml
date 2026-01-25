@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="dishtv.in" site_id="77447" lang="en" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" xmltv_id="9XM.in@SD" tvg-url="https://d282a7rzpbl0nj.cloudfront.net/live/9XM/master.m3u8">#464 9XM</channel>
+  <channel site="dishtv.in" site_id="77447" lang="en" xmltv_id="9XM.in@SD">9XM</channel>
   <channel site="dishtv.in" site_id="90009" lang="en" xmltv_id="News24.in@SD">News24</channel>
   <channel site="dishtv.in" site_id="90012" lang="en" xmltv_id="9XJhakaas.in@SD">9X Jhakaas</channel>
   <channel site="dishtv.in" site_id="100869" lang="en" xmltv_id="DiscoveryChannel.in@SD">Discovery Channel</channel>
@@ -435,3 +435,4 @@
   <channel site="dishtv.in" site_id="185737" lang="en" xmltv_id="MKNMarathi.in@SD">MKN News</channel>
   <channel site="dishtv.in" site_id="192071" lang="en" xmltv_id="">Crunchyroll Anime Top Active</channel>
 </channels>
+
