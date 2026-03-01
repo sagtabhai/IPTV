@@ -1,37 +1,116 @@
-#EXTM3U  x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz;https://epgshare01.online/epgshare01/epg_ripper_IN2.xml.gz;https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTM3U  x-tvg-url="https://avkb.short.gy/epg.xml.gz;https://avkb.short.gy/jioepg.xml.gz;https://www.tsepg.cf/jio.xml.gz;https://avkb.short.gy/tsepg.xml.gz;https://www.tsepg.cf/epg.xml.gz;https://github.com/dbghelp/StarHub-TV-EPG/raw/main/starhub.xml;https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz;https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz;https://epgshare01.online/epgshare01/epg_ripper_IN2.xml.gz;https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz:https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" catchup-type="shift"
 
-#EXTINF:-1 tvg-id="SET.HD.in" tvg-name="SET HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="ENTERTAINMENT" ,CH.104 SET HD
-#http://217.20.112.199/sethd/mpegts
-#http://217.20.112.199:8888/sethd/mpegts
-http://217.20.112.199/sethd/index.m3u8
+#EXTINF:1 tvg-id="267" tvg-name="and PICTURES HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png" group-title="MOVIES" ,& PICTURES HD
 
-#EXTINF:-1 tvg-id="SAB.HD.in" tvg-name="SAB HD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png" group-title="ENTERTAINMENT" ,CH.106 SONY SAB HD
-#http://217.20.112.199/sabtvhd/mpegts
-#http://217.20.112.199:8888/sabtvhd/mpegts
-http://217.20.112.199/sabtvhd/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
+#EXTINF:1 tvg-id="And.Pictures.Tv.Channel.Today.in2" tvg-name="and PICTURES" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png" group-title="MOVIES",& PICTURES
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="STAR.BHARAT.HD.in" tvg-name="STAR BHARAT HD" tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png" group-title="ENTERTAINMENT" ,CH.115 STAR BHARAT HD
-#http://217.20.112.199/lifeokhd/mpegts
-#http://217.20.112.199:8888/lifeokhd/mpegts
-http://217.20.112.199/lifeokhd/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+#EXTINF:-1 tvg-id="and.TV.in" tvg-name="and TV" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYKZL.png" group-title="ENTERTAINMENT" ,&TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="COLORS.HD.in" tvg-name="COLORS HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png" group-title="ENTERTAINMENT" ,CH.120 COLORS HD
+#EXTINF:-1 tvg-id=""ANIMAL.PLANET.HD.WORLD.in tvg-name="ANIMAL PLANET HD" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png" group-title="INFOTAINMENT" ,ANIMAL PLANET HD WORLD
+http://217.20.112.199:8888/animalplanet/index.m3u8
+
+#EXTVLCOPT:http-user-agent=tpma/16.4 (Linux;Android 14) AndroidXMedia3/1.1.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Colors.Hindi.HD.my" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png" group-title="ENTERTAINMENT" ,COLORS HINDI HD MY
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+
+#EXTINF:-1 tvg-id="COLORS.HD.in" tvg-name="Colors HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png" group-title="ENTERTAINMENT" ,COLORS HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:a5:7d:a0&stream=276925&extension=m3u8
+
+#EXTINF:-1 tvg-id="COLORS.HD.in" tvg-name="COLORS HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png" group-title="ENTERTAINMENT" ,COLORS HD
 #http://217.20.112.199/ColorsHD/mpegts
 #http://217.20.112.199:8888/ColorsHD/mpegts
 http://217.20.112.199/ColorsHD/index.m3u8
 
-#EXTINF:-1 tvg-id=""ANIMAL.PLANET.HD.WORLD.in tvg-name="ANIMAL PLANET HD" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png" group-title="INFOTAINMENT" ,CH.805 ANIMAL PLANET HD WORLD
-http://217.20.112.199:8888/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png" group-title="ENTERTAINMENT" ,COLORS HD
+http://103.182.170.32:8888/play/a041
+http://103.99.249.139/colors/index.m3u8
 
-#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.in" tvg-name="NAT GEO WILD HD" tvg-logo="https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png" group-title="INFOTAINMENT" ,CH.822 NAT GEO WILD HD
+#EXTINF:-1 tvg-id="COLORS.HD.in" tvg-name="Colors HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png"  group-title="ENTERTAINMENT" ,COLORS HD
+http://103.180.212.191:3500/live/144.m3u8
+
+#EXTINF:-1 tvg-id="COLORS.in" tvg-name="Colors SD" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png" group-title="ENTERTAINMENT" ,COLORS
+http://103.180.212.191:3500/live/1368.m3u8
+
+#EXTINF:1 tvg-id="1477" tvg-name="ColorsCineplexHD" tvg-type="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="MOVIES" ,COLORS CINEPLEX HD
+http://103.51.21.134/app/ts_live_1477.m3u8
+
+#EXTINF:1 tvg-id="482" tvg-name="Colors Cineplex" tvg-type="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="MOVIES",COLORS CINEPLEX
+http://103.51.21.134/app/ts_live_482.m3u8
+
+#EXTINF:1 tvg-id="1763" tvg-name="ColorsCineplexBollywood" tvg-type="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
+http://103.51.21.134/app/ts_live_1763.m3u8
+
+#EXTINF:1 tvg-id="1450" tvg-name="ColorsCineplexSuperhit" tvg-type="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="MOVIES",COLORS CINEPLEX SUPERHITS
+http://103.51.21.134/app/ts_live_1450.m3u8
+
+#EXTINF:1 tvg-id="1324" tvg-name="Colors Gujarati Cinema" tvg-type="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="MOVIES",COLORS GUJARATI CINEMA
+http://103.51.21.134/app/ts_live_1324.m3u8
+
+#EXTINF:-1 tvg-id="COLORS.MARATHI.HD.in" tvg-name="COLORS MARATHI HD" tvg-logo="https://dtil.tmsimg.com/assets/s158237_ld_h15_aa.png" group-title="ENTERTAINMENT" ,COLORS MARATHI HD
+http://217.20.112.199/ColorsMarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.in" tvg-name="NAT GEO WILD HD" tvg-logo="https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png" group-title="INFOTAINMENT" ,NAT GEO WILD HD
 #http://217.20.112.199/natgeowild/mpegts
 #http://217.20.112.199:8888/natgeowild/mpegts
 http://217.20.112.199:8888/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-id="COLORS.MARATHI.HD.in" tvg-name="COLORS MARATHI HD" tvg-logo="https://dtil.tmsimg.com/assets/s158237_ld_h15_aa.png" group-title="ENTERTAINMENT" ,CH.1208 COLORS MARATHI HD
-http://217.20.112.199/ColorsMarathi/index.m3u8
+#EXTINF:1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="ENTERTAINMENT" ,SET HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:a5:7d:a0&stream=276915&extension=m3u8
 
-#EXTINF:-1 tvg-id="Sony.Marathi.in" tvg-name="SONY MARATHI HD" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png" group-title="ENTERTAINMENT" ,CH.1211 SONY MARATHI
+#EXTINF:-1 tvg-id="SET.HD.in" tvg-name="SET HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="ENTERTAINMENT" ,SET HD
+#http://217.20.112.199/sethd/mpegts
+#http://217.20.112.199:8888/sethd/mpegts
+http://217.20.112.199/sethd/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony.Marathi.in" tvg-name="SONY MARATHI HD" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png" group-title="ENTERTAINMENT" ,SONY MARATHI
 http://217.20.112.199:8888/sonymarathi/index.m3u8
+
+#EXTINF:1 tvg-id="554" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png" group-title="ENTERTAINMENT" ,SONY PAL
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:a5:7d:a0&stream=276921&extension=m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png" group-title="ENTERTAINMENT" ,SONY SAB HD
+http://103.99.249.139/sonysab/index.m3u8
+
+#EXTINF:-1 tvg-id="SAB.HD.in" tvg-name="SAB HD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png" group-title="ENTERTAINMENT" ,SONY SAB HD
+#http://217.20.112.199/sabtvhd/mpegts
+#http://217.20.112.199:8888/sabtvhd/mpegts
+http://217.20.112.199/sabtvhd/index.m3u8
+
+#EXTINF:1 tvg-id="STAR.BHARAT.HD.in" tvg-name="STAR BHARAT HD" tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png" group-title="ENTERTAINMENT" ,STAR BHARAT HD
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:a5:7d:a0&stream=276909&extension=m3u8
+
+#EXTINF:-1 tvg-id="STAR.BHARAT.HD.in" tvg-name="STAR BHARAT HD" tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png" group-title="ENTERTAINMENT" ,STAR BHARAT HD
+#http://217.20.112.199/lifeokhd/mpegts
+#http://217.20.112.199:8888/lifeokhd/mpegts
+http://217.20.112.199/lifeokhd/index.m3u8
+#EXTINF:1 tvg-id="STAR.UTSAV.in" tvg-name="STAR UTSAV" tvg-logo="https://dtil.tmsimg.com/assets/s159132_ld_h15_aa.png" group-title="ENTERTAINMENT" ,STAR UTSAV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:a5:7d:a0&stream=276913&extension=m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
+#EXTINF:-1 tvg-id="ZEE.ANMOL.in" tvg-name="ZEE ANMOL" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png" group-title="ENTERTAINMENT" ,ZEE ANMOL
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+#EXTINF:-1 tvg-id="ts557" tvg-name="ZEE TV" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png" group-title="ENTERTAINMENT" ,ZEE TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 
