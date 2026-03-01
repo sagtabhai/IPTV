@@ -1,0 +1,35 @@
+#EXTM3U  x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz;https://epgshare01.online/epgshare01/epg_ripper_IN2.xml.gz;https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+
+#EXTINF:-1 tvg-id="COLORS.HD.in" tvg-name="COLORS HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png" group-title="ENTERTAINMENT" ,COLORS HD
+#http://217.20.112.199/ColorsHD/mpegts
+#http://217.20.112.199:8888/ColorsHD/mpegts
+http://217.20.112.199/ColorsHD/index.m3u8
+
+#EXTINF:-1 tvg-id="COLORS.MARATHI.HD.in" tvg-name="COLORS MARATHI HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png" group-title="ENTERTAINMENT" ,COLORS MARATHI HD
+http://217.20.112.199/ColorsMarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="SET.HD.in" tvg-name="SET HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="ENTERTAINMENT" ,SET HD
+#http://217.20.112.199/sethd/mpegts
+#http://217.20.112.199:8888/sethd/mpegts
+http://217.20.112.199/sethd/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY.MARATHI.HD.in" tvg-name="SONY MARATHI HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png" group-title="ENTERTAINMENT" ,SONY MARATHI
+http://217.20.112.199:8888/sonymarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="SAB.HD.in" tvg-name="SAB HD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png" group-title="ENTERTAINMENT" ,SONY SAB HD
+#http://217.20.112.199/sabtvhd/mpegts
+#http://217.20.112.199:8888/sabtvhd/mpegts
+http://217.20.112.199/sabtvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR.BHARAT.HD.in" tvg-name="STAR BHARAT HD" tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png" group-title="ENTERTAINMENT",STAR BHARAT HD
+#http://217.20.112.199/lifeokhd/mpegts
+#http://217.20.112.199:8888/lifeokhd/mpegts
+http://217.20.112.199/lifeokhd/index.m3u8
+
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.HD.in" tvg-name="ANIMAL PLANET HD" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png" group-title="INFOTAINMENT", ANIMAL PLANET HD
+http://217.20.112.199:8888/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.in" tvg-name="NAT GEO WILD HD" tvg-logo="https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png" group-title="INFOTAINMENT",NAT GEO WILD HD
+#http://217.20.112.199/natgeowild/mpegts
+#http://217.20.112.199:8888/natgeowild/mpegts
+http://217.20.112.199:8888/natgeowild/index.m3u8
